@@ -7,7 +7,8 @@ import {
   RedditShareButton,
   RedditIcon,
   LinkedinShareButton,
-  LinkedinIcon
+  LinkedinIcon,
+  
 } from "react-share";
 
 const Footer = () => {
