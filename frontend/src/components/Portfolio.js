@@ -2,7 +2,9 @@ import React from "react";
 import netflix from "../images/ecommerce.png";
 import cityGuide from "../images/DogCat.png";
 import portfolio from "../images/math.png";
-import taskManager from "../images/congra.png";
+import taskManager from "../images/mathcongra.png";
+import mathcalc from "../images/mathcalc.png";
+import mathkid from "../images/mathkid.png";
 // FONTAWESOME IMPORTS
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearchPlus } from "@fortawesome/free-solid-svg-icons";
@@ -66,7 +68,9 @@ const Pofrfolio = () => {
   const openPopupboxPortfolio = () => {
     const content = (
       <>
+        <img className="portfolio-image-popupbox" src={mathkid} alt="Math Calculator..."  style={ {"height": "300px", "width":"200px"}}/>
         <img className="portfolio-image-popupbox" src={portfolio} alt="Math Calculator..."  style={ {"height": "300px", "width":"200px"}}/>
+        <img className="portfolio-image-popupbox" src={mathcalc} alt="Math Calculator..."  style={ {"height": "300px", "width":"200px"}}/>
         <img className="portfolio-image-popupbox" src={taskManager} alt="Math Calculator Project..." style={ {"height": "300px", "width":"200px"}} />
         <h3>Math Calculator Mobile Application.</h3>
         <p>Our math games app will help kids(9+) to learn addition, substruction, and multiplication. It is designed to let them think faster with countdown timer.</p>
