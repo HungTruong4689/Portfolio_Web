@@ -13,22 +13,26 @@ const AboutMe = () => {
         <div className="col-lg-6 col-xm-12">
           <h1 className="about-heading">about me</h1>
           <p>
-            Hello! I am Hung Truong. I am a Software Developer and I graduated from the Tampere University of Applied Sciences (TAMK) in June 2022. 
-            <br />
-             Technologies I use are Django, Flask, MERN(MongoDB, Express, ReactJS, and NodeJS), Java, and Kotlin. I also work as a data engineer and scientist with SQL and Python packages (Panda, NumPy, Matplotlib).
-            <br />
-
-            I create responsive websites that are displayed on all devices, such as desktops and smartphones.
-
-            <br />
-	          I have enough enthusiasm and abilities to work as a Software Developer because I am hardworking, active, patient, and honest. I am always ready to learn something new.
-
-            <br />
-            Of course, before I begin developing any web app, Landing Page, Business Website, or E-commerce, I need to have a ready-made project layout (sketch).
-
-            
-
-           
+              Dear Sir/Madam,
+              <br/>
+              <br/>
+              I would like to apply for your company's software developer position. I received my Bachelor's degree in Software Engineering from Tampere University of Applied Sciences (TAMK) - Finland in June 2022. 
+              <br/>
+              <br/>
+              I have five years of working in software development specializing in Django, Flask, MERN(MongoDB, Express, ReactJS, and NodeJS), Java, Kotlin, SQL, and Machine learning that perfectly fit the advertised job requirements. Besides, as a web developer at 72DPI-  New Zealand, I was responsible for creating the full-stack web application, both the front-end and back-end. I also created the NLP machine learning model for my company's application. Recently, I began developing web personal project applications such as Landing Page, Business websites, and E-commerce.
+              <br/>
+              <br/>
+              Regarding personality, I have enough enthusiasm and abilities to work as a Software Developer because I am hardworking, active, patient, and honest. Furthermore, I am always willing to up-to-date new technologies.
+              <br/>
+              <br/>
+              Please find my resume attached. Feel free to contact me if you have any further questions you would like to discuss.
+              <br/>
+              <br/>
+              Thank you for taking the time to consider my application. I look forward to hearing from you soon.
+              <br/>
+              <br/>
+              Sincerely,
+              Hung Truong
 
             
 
