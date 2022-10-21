@@ -13,10 +13,10 @@ const AboutMe = () => {
         <div className="col-lg-6 col-xm-12">
           <h1 className="about-heading">about me</h1>
           <p>
-              Dear Sir/Madam,
+              
               <br/>
               <br/>
-              I would like to apply for your company's software developer position. I received my Bachelor's degree in Software Engineering from Tampere University of Applied Sciences (TAMK) - Finland in June 2022. 
+               I received my Bachelor's degree in Software Engineering from Tampere University of Applied Sciences (TAMK) - Finland in June 2022. 
               <br/>
               <br/>
               I have five years of working in software development specializing in Django, Flask, MERN(MongoDB, Express, ReactJS, and NodeJS), Java, Kotlin, SQL, and Machine learning that perfectly fit the advertised job requirements. Besides, as a web developer at 72DPI-  New Zealand, I was responsible for creating the full-stack web application, both the front-end and back-end. I also created the NLP machine learning model for my company's application. Recently, I began developing web personal project applications such as Landing Page, Business websites, and E-commerce.
