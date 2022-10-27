@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio_Web/static/css/main.73177eeb.chunk.css",
-    "main.js": "/Portfolio_Web/static/js/main.e252ed3f.chunk.js",
-    "main.js.map": "/Portfolio_Web/static/js/main.e252ed3f.chunk.js.map",
+    "main.js": "/Portfolio_Web/static/js/main.b4e388bf.chunk.js",
+    "main.js.map": "/Portfolio_Web/static/js/main.b4e388bf.chunk.js.map",
     "runtime-main.js": "/Portfolio_Web/static/js/runtime-main.6b5c55aa.js",
     "runtime-main.js.map": "/Portfolio_Web/static/js/runtime-main.6b5c55aa.js.map",
     "static/css/2.8e24781e.chunk.css": "/Portfolio_Web/static/css/2.8e24781e.chunk.css",
@@ -24,7 +24,7 @@
     "static/media/mathcalc.29bc727d.png": "/Portfolio_Web/static/media/mathcalc.29bc727d.png",
     "static/media/mathcongra.6c72e0c8.png": "/Portfolio_Web/static/media/mathcongra.6c72e0c8.png",
     "static/media/mathkid.c50857c3.png": "/Portfolio_Web/static/media/mathkid.c50857c3.png",
-    "static/media/me.494cd7e4.jpg": "/Portfolio_Web/static/media/me.494cd7e4.jpg",
+    "static/media/me.5ac9707d.jpg": "/Portfolio_Web/static/media/me.5ac9707d.jpg",
     "static/media/App.css": "/Portfolio_Web/static/media/wall-and-laptop-background.f9e274f4.jpg"
   },
   "entrypoints": [
@@ -32,6 +32,6 @@
     "static/css/2.8e24781e.chunk.css",
     "static/js/2.514a0533.chunk.js",
     "static/css/main.73177eeb.chunk.css",
-    "static/js/main.e252ed3f.chunk.js"
+    "static/js/main.b4e388bf.chunk.js"
   ]
 }
